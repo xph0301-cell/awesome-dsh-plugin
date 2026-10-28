@@ -1,0 +1,6 @@
+url: https://github.com/xph0301-cell/dsh-edge-sidebar
+name: xph0301-cell/dsh-edge-sidebar
+category: browser
+description:
+  en: Docks the whole native Microsoft Edge window, title bar and tabs included, onto the DSH right-sidebar pane so sidebar previews are carried by Edge instead of the embedded browser.
+  zh: 把完整的原生 Microsoft Edge 窗口（含标题栏与标签页）停靠到 DSH 右侧栏面板上，使侧栏预览由 Edge 而不是内置浏览器承载。
